@@ -259,7 +259,7 @@ textarea {
     font-size: 26px;
     line-height: 25px;
     color: rgba(49, 70, 89, 1);
-    font-weight: bold;
+    font-weight: normal;
 }
 .jj-list-con {
     overflow: hidden;
