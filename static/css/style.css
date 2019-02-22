@@ -264,6 +264,7 @@ textarea {
 .jj-list-con {
     overflow: hidden;
     margin: 0 auto;
+    font:normal;
 
 }
 .jj-list-con li {
