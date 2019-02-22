@@ -278,9 +278,9 @@ textarea {
     display: block;
     background: rgba(230, 247, 255, 0.96);
     color:rgba(49, 70, 89, 1);
-    font-size: 26px;
+    font-size: 60px;
     text-align: center;
-    line-height: 44px;
+    line-height: 90px;
     transition: all 0.2s;
     border-radius: 2px;
 }
