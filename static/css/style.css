@@ -259,6 +259,7 @@ textarea {
 }
 .jj-list-tit {
     font-size: 26px;
+    float: center;
     line-height: 25px;
     color: rgba(49, 70, 89, 1);
     font-weight: normal;
