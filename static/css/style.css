@@ -256,7 +256,7 @@ textarea {
     padding-right: 0;
 }
 .jj-list-tit {
-    font-size: 120px;
+    font-size: 32px;
     line-height: 25px;
     color: rgba(49, 70, 89, 1);
     font-weight: bold;
@@ -278,7 +278,7 @@ textarea {
     display: block;
     background: rgba(230, 247, 255, 0.96);
     color:rgba(49, 70, 89, 1);
-    font-size: 13px;
+    font-size: 26px;
     text-align: center;
     line-height: 44px;
     transition: all 0.2s;
