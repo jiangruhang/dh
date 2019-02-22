@@ -10,7 +10,7 @@
 body, ul, li, h1, h2, h3, h4, h5, h6, p, form, dl, dt, dd {
     margin: 0px;
     padding: 0px;
-    font-size: 36px;
+    font-size: 14px;
     font-weight: normal;
 }
 img {
@@ -248,7 +248,7 @@ textarea {
 
 .jj-list {
     width: 100%;
-    float: middle;
+    float: center;
     margin-bottom: 30px;
     padding-right: 16px;
 }
