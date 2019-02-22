@@ -263,7 +263,7 @@ textarea {
 }
 .jj-list-con {
     overflow: hidden;
-    margin: 0 auto;
+    margin: 5 auto;
     font:normal;
 
 }
@@ -283,7 +283,7 @@ textarea {
     text-align: center;
     line-height: 90px;
     transition: all 0.2s;
-    border-radius: 2px;
+    border-radius: 10px;
 }
 .jj-list-link:hover {
     background: #1890FF 100%;
